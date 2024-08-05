@@ -13,7 +13,7 @@ export function PageNotFound(){
                 <div className="flex flex-col items-center " >
                    <p className="my-7 mt-12 text-4xl font-bold text-gray-700 dark:text-white">404 Ooops</p>
                    <div  className="max-w-sm ">
-                   <img  src="assets//movieclip.png" alt="image of movieclip"></img>
+                   <img  src="assets//movieclip.png" alt="movieclip"></img>
                    </div> 
                  </div>
                 <div>

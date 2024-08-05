@@ -13,7 +13,7 @@ export function Search({apipath}){
 
     useEffect(()=>{
         document.title=`Search result for ${queryterm}/ Cinemate`;
-       },[])
+       },[queryterm])
 
          return(
          <main className="dark:bg-slate-700">
